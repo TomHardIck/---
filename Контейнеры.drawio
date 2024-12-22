@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Страница — 1" id="sKCPlMZLUC4v2ZHwajPv">
+    <mxGraphModel dx="1221" dy="647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qrVxbY_wiRbLTQtISi_M-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qrVxbY_wiRbLTQtISi_M-1" target="qrVxbY_wiRbLTQtISi_M-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qrVxbY_wiRbLTQtISi_M-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qrVxbY_wiRbLTQtISi_M-1" target="qrVxbY_wiRbLTQtISi_M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qrVxbY_wiRbLTQtISi_M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qrVxbY_wiRbLTQtISi_M-1" target="qrVxbY_wiRbLTQtISi_M-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qrVxbY_wiRbLTQtISi_M-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qrVxbY_wiRbLTQtISi_M-1" target="qrVxbY_wiRbLTQtISi_M-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qrVxbY_wiRbLTQtISi_M-1" value="Система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="86" width="143" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qrVxbY_wiRbLTQtISi_M-2" value="Фронтенд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="201" width="143" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qrVxbY_wiRbLTQtISi_M-4" value="Бэкенд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="201" width="143" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qrVxbY_wiRbLTQtISi_M-6" value="База данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="201" width="143" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qrVxbY_wiRbLTQtISi_M-8" value="API оплаты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557" y="201" width="143" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

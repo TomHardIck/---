@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Страница — 1" id="oIl4pfBKf5VumiE52o-R">
+    <mxGraphModel dx="1621" dy="647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BEZjoZanDp1Ejj-jAWVo-1" target="BEZjoZanDp1Ejj-jAWVo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BEZjoZanDp1Ejj-jAWVo-1" target="BEZjoZanDp1Ejj-jAWVo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BEZjoZanDp1Ejj-jAWVo-1" target="BEZjoZanDp1Ejj-jAWVo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-1" value="Система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BEZjoZanDp1Ejj-jAWVo-2" target="BEZjoZanDp1Ejj-jAWVo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BEZjoZanDp1Ejj-jAWVo-2" target="BEZjoZanDp1Ejj-jAWVo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-2" value="Фронтенд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="177" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-4" value="UX/UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="289" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-6" value="UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="289" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BEZjoZanDp1Ejj-jAWVo-8" target="BEZjoZanDp1Ejj-jAWVo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BEZjoZanDp1Ejj-jAWVo-8" target="BEZjoZanDp1Ejj-jAWVo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-8" value="Бэкенд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="177" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-10" value="ASP .NET MVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="289" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-12" value="Entity Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="289" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEZjoZanDp1Ejj-jAWVo-14" value="База данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
